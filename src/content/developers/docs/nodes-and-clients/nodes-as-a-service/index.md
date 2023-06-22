@@ -49,7 +49,7 @@ Read more about the [benefits of running your own node](/developers/docs/nodes-a
 
 ## Popular node services {#popular-node-services}
 
-Here is a list of some of the most popular Ethereum node providers, feel free to add any that are missing! Each node service offers different benefits and features in addition to free or paid tiers, you should investigate which ones best suit your needs prior to making a decision.
+Here is a list of some of the most popular Ethereum node providers, feel free to add any that are missing! Each node service offers different benefits and features in addition to free or paid tiers, you should investigate which ones best suit your needs prior to making a decision. A collection of public and private RPC endpoints can also be found on [Chain Connect](https://www.alchemy.com/chain-connect/chain/ethereum).
 
 - [**Alchemy**](https://alchemy.com/)
   - [Docs](https://docs.alchemyapi.io/)
